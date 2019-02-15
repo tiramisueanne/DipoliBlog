@@ -59,4 +59,17 @@ Marquez, Moises Royo. _Pietila_ . 2014, oa.upm.es/33124/1/MOISES_ROYO_MARQUEZ_1.
 University, Aalto. “Campus Tour Part 2 Väre and Dipoli – Student Vlogger Dasha.” YouTube, YouTube, 12 Nov. 2018, www.youtube.com/watch?v=6eTjx5ggHlg.
 
 ## What did the designs look like? 
-![](BlackFloorplan.jpg) ![](FloorplanWhite.jpg)
+![](BlackFloorplan.jpg) ![](FloorplanWhite.jpg) ![](FirstElevation.jpg) ![](SecondCrossSection.jpg)
+
+We can see all of the complexity of the buildings functionality within the floorplans, and how the building works itself into its site in the elevations. Note especially the rock outcroppings underneath the building, much like the ones that decorate it. All pictures are from _Reima Pietilä: Architetcture, Context and Modernism_.
+
+Quantrill, Malcolm. _Reima Pietilä: Architetcture, Context and Modernism_. Otava, 1985.
+
+## What did the building look like? 
+
+![](CroppedRocks.jpg)
+
+We can see the different types of building materials used here. The top, eye-catching overhang is made of copper, which once oxidized, will turn green. The mid-section is made of glass and wood, functioning as an articulated window. The base, which I think personally grabs attention the most, is made out of stone, much like the granite outcroppings that would have been in the area (Quantrill).
+
+<img id="image_canv" src="CroppedBalcony.png" class="rotate90">
+
