@@ -41,6 +41,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 # Dipole Dancer
 ### An exploration of the laws of attraction (and repulsion) that went into Dipoli at Espoo, Finland
+### I chose a website and this theming due to the fact that originally, Dipoli was a building for a technical institute. 
 
 ## But what is it? 
 
@@ -77,11 +78,11 @@ Here we can see the details in the copper roof, which looks analogous to the log
 
 We can see it in context from these Google Earth images, this one emphasizing the forest and greenery that surrounds the site,
 
-![](DipoliGoogleEarthForest.jpg)
+![](DipoliGoogleEarthForest.png)
 
 and this one, which notes how close it is to the city of Helsinki and that, while in a forest, was in a heavily populous area. 
 
-![](GoogleEarthDipoliRiverCity.jpg)
+![](GoogleEarthDipoliRiverCity.png)
 
 
 “Overview – Google Earth.” _Google Search_, Google, www.google.com/earth/.
@@ -110,29 +111,34 @@ Quantrill, Malcolm. _Reima Pietilä: Architetcture, Context and Modernism_. Ota
 
 ## How would I represent it? 
 
-//TODO: put drawing here
+![Artistic Attempt](Rendition.jpeg)
 
-## How did the inside look?
+## How did the inside look? Also, let's look at it a lot. 
 
 Before we continue, there was a renovation only a few years ago, so if some of these style seem bizarrely modern, that's because they are. That being said, the inside really entranced me, and so I gathered quite a few pictures from ArchDaily.com. Please note how intensely different each room is, while still following the motiphs required to keep everything seamless. 
 
-![Rocks Inside and Outside](RockInside.jpg)
+Rocks Inside and Outside
+![](RockInside.jpg)
 
-Pietila was inspired by the rocks outcroppings that he saw when he visited the site, (Quantrill) and so he used them not only as a facade but as internal decoration. The effect is that the person is low into the ground, and still very connected to nature while inside a building. 
+Pietila was inspired by the rocks outcroppings that he saw when he visited the site, (Quantrill) and so he used them not only as a facade but as internal decoration. The effect is that the person is low into the ground, and still very connected to nature while inside a building.
 
-![Ridiculously Cozy](CozyWhiteInside.jpg)
+Ridiculously Cozy
+![](CozyWhiteInside.jpg)
 
 However, gigantic rocks along walls and walkways do not make for the most welcoming environment. That is where he executed an extraordinarily cozy design, which is well represented in this room. The roughly painted wood, with the human sized cubby-hole and the modern, yet immediately recognizable fire-place creates an area that feels like a Finnish hug on a cool day. 
 
-![Fine Dining](DiningArea.jpg) 
+Fine Dining
+![](DiningArea.jpg) 
 
 This is one of the areas most touched by the renovation, but I think the renovators did a stellar job. The wood details as well as the consistent motiph of perfectly vertical or horizontal wooden or metal lines keeps it intact with the rest of the building. 
 
-![Still a Conference Center](LargeRoom.jpg)
+Still a Conference Center
+![](LargeRoom.jpg)
 
 It's easy to forget after seeing all of the previous rooms that Dipoli is still supposed to serve as a conference center over the summert. That means large rooms, and this one utilizes the order of the horizontal wood motif to make what a human would see in the periphery more professional. However, if you look up, as the man is doing, we see small holes permeating this bright white concrete ceiling (Marquez), giving us back organic light in what looks organic permeations.
 
-![The View](Windows.jpg)
+The View
+![](Windows.jpg)
 
 Because of the site, windows were big enough for a human to look up and see all of the surrounding greenery. This upper floor room looks out and immediately sees the leaves of the pine trees that surround the building, immediately adding an organic touch to the building. 
 
@@ -145,7 +151,7 @@ Rojas, Cristobal. “Dipoli - Aalto University Main Building / ALA Architects.�
 
 ## Not satisfied with still pictures?
 
-[![](https://img.youtube.com/6eTjx5ggHlg/0.jpg)](https://www.youtube.com/watch?v=6eTjx5ggHlg) (University)
+[![](http://i3.ytimg.com/vi/6eTjx5ggHlg/hqdefault.jpg)](https://www.youtube.com/watch?v=6eTjx5ggHlg) (University)
 
 The second half of this video deals with Dipoli. Firstly, I had no idea that the sculpture that looked like an artichoke out front was *kinetic*. Secondly, Dipoli is the largest dining hall on campus, which means that students are going to be visiting there quite a bit. I also learned that the main entrance served as a public exhibition. 
 
@@ -167,6 +173,9 @@ Quantrill, Malcolm. _Reima Pietilä: Architetcture, Context and Modernism_. Ota
 ## Wait, who was Pietila again? 
 
 Some of the things I learned from _One Man's Odyssey in Search of Finnish Architecture_ was that Pietila was kind of a nut, a bit conceited, and very anarchistic. He could be a man of unnerving passion, as in when he "took a knife and drove it ino the floor between us, to emphasise a point!" (pg 8) Pietila stated, "There are four basic varieties or possible sources of architecture: 1. the fisherman's cottage; 2. some kind of National Romanticism; 3. Alvar Aalto's modernism; and 4. my approach." (pg 8) This bizarre simplification is indicative of his own perceived superiority and also an odd intimidation from Aalto, another preeminent but slightly earlier Finnish Modern architect, that runs through the course of the book and even influences where Quantrill and Pietila would meet. The more anarchist parts of his nature are found in his teachings, "he stressed, 'to retain an essential open-endedness and loose-fit to enable the students to be freed from the conventional didactic constraints that are based on the use of their pre-knowledge.'" (pg 50) Essentially, stop allowing other teachers and authority figures to teach them what is right and wrong in architecture. 
+
+Pietilä Reima, and Malcolm Quantrill. _Suomalaisen Arkkitehtuurin etsijä: Omistettu Reima Pietilälle = One Man's Odyssey in Search of Finnish Architecture_. Rakennuskirja Oy, 1988.
+
 
 
 
