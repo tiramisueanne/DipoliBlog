@@ -127,7 +127,7 @@ Quantrill, Malcolm. _Reima Pietilä: Architetcture, Context and Modernism_. Ota
 
 ## How did the inside look? Also, let's look at it a lot. 
 
-Before we continue, there was a renovation only a few years ago, so if some of these style seem bizarrely modern, that's because they are. That being said, the inside really entranced me, and so I gathered quite a few pictures from ArchDaily.com. Please note how intensely different each room is, while still following the motiphs required to keep everything seamless. 
+Before we continue, there was a renovation only a few years ago, so if some of these style seem bizarrely modern, that's because they are. That being said, the inside really entranced me, and so I gathered quite a few pictures from ArchDaily.com. Please note how intensely different each room is, while still following the motifs required to keep everything seamless. 
 
 Rocks Inside and Outside
 ![](RockInside.jpg)
@@ -142,7 +142,7 @@ However, gigantic rocks along walls and walkways do not make for the most welcom
 Fine Dining
 ![](DiningArea.jpg) 
 
-This is one of the areas most touched by the renovation, but I think the renovators did a stellar job. The wood details as well as the consistent motiph of perfectly vertical or horizontal wooden or metal lines keeps it intact with the rest of the building. 
+This is one of the areas most touched by the renovation, but I think the renovators did a stellar job. The wood details as well as the consistent motif of perfectly vertical or horizontal wooden or metal lines keeps it intact with the rest of the building. 
 
 Still a Conference Center
 ![](LargeRoom.jpg)
