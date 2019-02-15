@@ -125,6 +125,8 @@ Quantrill, Malcolm. _Reima Pietilä: Architetcture, Context and Modernism_. Ota
 
 ![Artistic Attempt](Rendition.jpeg)
 
+I hope this illustration captures the flower quality of the sculpture, and also all of the rocks used in the building. The striations in the copper are meant to accentuate their true form. 
+
 ## How did the inside look? 
 
 Before we continue, there was a renovation only a few years ago, so if some of these style seem bizarrely modern, that's because they are. That being said, the inside really entranced me, and so I gathered quite a few pictures from ArchDaily.com. Please note how intensely different each room is, while still following the motifs required to keep everything seamless.
