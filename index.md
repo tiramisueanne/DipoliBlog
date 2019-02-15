@@ -38,3 +38,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. 
 -->
+
+# Dipole Dancer
+### An exploration of the laws of attraction (and repulsion) that went into Dipoli at Espoo, Finland
+
+## But what is it? 
+
+The name Dipoli is a pun: it can mean "dipole", or "The second Poli", ("Dipoli") which would refer to the second building for the polytechnic students at Helsinki University of Technology (Rojas). It was built in 1966 and designed by architects Reima and Raili Pietila. 
+
+## Okay, but **what is it?**
+
+The University of Helsinki was a bit... ambitious. 
