@@ -44,8 +44,19 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## But what is it? 
 
-The name Dipoli is a pun: it can mean "dipole", or "The second Poli", ("Dipoli") which would refer to the second building for the polytechnic students at Helsinki University of Technology (Rojas). It was built in 1966 and designed by architects Reima and Raili Pietila. 
+The name Dipoli is a pun: it can mean "dipole", or "The second Poli", ("Dipoli") which would refer to the second building for the polytechnic students at Helsinki University of Technology. It was built in 1966 and designed by architects Reima and Raili Pietila (Rojas). 
+
+“Dipoli.” _Venue_, Finnish Satellite Workshop 2019, 2019, spaceworkshop.fi/venue.html.
+
+Rojas, Cristobal. “Dipoli - Aalto University Main Building / ALA Architects.” _ArchDaily_, VELUX, 4 Dec. 2017, www.archdaily.com/884666/dipoli-aalto-university-main-building-ala-architects.
 
 ## Okay, but **what is it?**
 
-The University of Helsinki was a bit... ambitious. 
+The University was a bit... ambitious. The actual design of Dipoli was submitted to a competition where no one won first place, due to no one quite matching the program that the University had wanted. To illustrate, the finished product allows for night entertainment, film screenings, dances, dinners, while serving as a dining hall in the winter and a conference center in the summer, and this was still not enough (Marquez). Thus, not only are college students going to see this place extremely regularly, but people from all over the world are going to visit the University with one of their only interactions with its architecture being Dipoli. Secondary users of the building are the people at Aalto University, who bought the building, who made the front entrance a public exhibition hall (University). This allows for Dipoli to become almost a University-Museum hybrid, heightening its intellectual prowess for the general public.  
+
+Marquez, Moises Royo. _Pietila_ . 2014, oa.upm.es/33124/1/MOISES_ROYO_MARQUEZ_1.pdf.
+
+University, Aalto. “Campus Tour Part 2 Väre and Dipoli – Student Vlogger Dasha.” YouTube, YouTube, 12 Nov. 2018, www.youtube.com/watch?v=6eTjx5ggHlg.
+
+## What did the designs look like? 
+![](BlackFloorplan.jpg) ![](FloorplanWhite.jpg)
