@@ -68,26 +68,38 @@ Quantrill, Malcolm. _Reima Pietilä: Architetcture, Context and Modernism_. Ota
 
 ## What did the building look like? 
 
-![Rocks as a Facade](CroppedRocks.jpg)
+Rocks as a Facade
+![](CroppedRocks.jpg) (Quantrill)
 
 We can see the different types of building materials used here. The top, eye-catching overhang is made of copper, which once oxidized, will turn green. The mid-section is made of glass and wood, functioning as an articulated window. The base, which I think personally grabs attention the most, is made out of stone, much like the granite outcroppings that would have been in the area (Quantrill).
-
-<img title="Details Above" src="CroppedBalcony.jpg" style="transform:rotate(180deg);"> (Quantrill)
+Details Above
+<img src="CroppedBalcony.jpg" style="transform:rotate(180deg);"> (Quantrill)
 
 Here we can see the details in the copper roof, which looks analogous to the logs of wood in the midsection of the building. 
 
+![](Artichoke.jpg) (Rojas)
+
+This shot is of the front of the building, where we can see the kinetic sculpture, which can open and close like a flower. This metal flower oxymoron coincides with the same confusion of a building being part of the landscape, a motif that Dipoli illustrates.
+
+![](BigWall.jpg) (Rojas)
+
+I love this photo, because I believe that it illustrates Pietila's ability to understand that in nature, there would be something that would stand out, something that would catch your attention but still be part of the overall picture. This huge wall without window breaks looks like a jagged peak of a small mountain, exactly the rocky intonation that Dipoli gives off. 
+
 We can see it in context from these Google Earth images, this one emphasizing the forest and greenery that surrounds the site,
 
-![](DipoliGoogleEarthForest.png)
+![](DipoliGoogleEarthForest.png) ("Google Earth")
 
 and this one, which notes how close it is to the city of Helsinki and that, while in a forest, was in a heavily populous area. 
 
-![](GoogleEarthDipoliRiverCity.png)
+![](GoogleEarthDipoliRiverCity.png)("Google Earth")
 
 
 “Overview – Google Earth.” _Google Search_, Google, www.google.com/earth/.
 
 Quantrill, Malcolm. _Reima Pietilä: Architetcture, Context and Modernism_. Otava, 1985.
+
+Rojas, Cristobal. “Dipoli - Aalto University Main Building / ALA Architects.” _ArchDaily_, VELUX, 4 Dec. 2017, www.archdaily.com/884666/dipoli-aalto-university-main-building-ala-architects.
+
 
 ## What sources could I find in the library? 
 
