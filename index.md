@@ -71,5 +71,5 @@ Quantrill, Malcolm. _Reima Pietilä: Architetcture, Context and Modernism_. Ota
 
 We can see the different types of building materials used here. The top, eye-catching overhang is made of copper, which once oxidized, will turn green. The mid-section is made of glass and wood, functioning as an articulated window. The base, which I think personally grabs attention the most, is made out of stone, much like the granite outcroppings that would have been in the area (Quantrill).
 
-<img id="image_canv" src="CroppedBalcony.png" class="rotate90">
+<img id="image_canv" src="CroppedBalcony.jpg" class="rotate90">
 
